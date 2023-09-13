@@ -1,0 +1,48 @@
+sentences,entities
+Do you serve burgers with cheese here?,"13-20:FOOD, 26-32:FOOD"
+I want misal pav with a side of roasted peanuts for added crunch?,"7-16:FOOD, 32-47:FOOD"
+One order of Tandoori Chicken with tangy tamarind chutney,"13-29:FOOD, 35-57:FOOD"
+I will Tandoori Chicken with a butter naan,"7-23:FOOD, 31-42:FOOD"
+I want to enjoy the flavors of Tandoori Chicken with dal makhani,"30-46:FOOD, 52-63:FOOD"
+I want to enjoy the Pani Puri with a side of spicy chutney,"20-29:FOOD, 51-58:FOOD"
+"Can I have some Pani Puri with extra sweet tamarind water, please?","16-25:FOOD, 43-57:FOOD"
+May I have a serving of Pani Puri with some sev on top?,"24-33:FOOD, 44-47:FOOD"
+Please serve me a plate of Veg Pulao with raita and papad,"24-32:FOOD, 37-43:FOOD, 48-54:FOOD"
+I'll have a Chicken Shawarma ,"10-24:FOOD, 30-38:FOOD"
+I'll have a Veg Biryani,12-23:FOOD
+Can I get a Caesar Salad?,12-24:FOOD
+"One plate of Chana Masala with Bhature, please.",13-25:FOOD
+I'd love to try your Paneer Tikka,21-33:FOOD
+I like to savor some Palak Paneer with garlic naan and a side of raita.,"21-33:FOOD, 39-50:FOOD, 65-70:FOOD"
+I like to savor some Palak Paneer with garlic naan and a side of raita.,"21-33:FOOD, 39-50:FOOD, 65-70:FOOD"
+Please bring me a plate of Aloo Paratha with mango pickle and a dollop of butter.,"27-39:FOOD, 45-52:FOOD, 74-80:FOOD"
+I would like some Hyderabadi Biryani with Mirchi ka Salan and cucumber salad.,"18-36:FOOD, 42-48:FOOD, 62-76:FOOD"
+Can I get a plate of Rajma Chawal with papad and some onion salad?,"21-33:FOOD, 39-44:FOOD, 54-65:FOOD"
+I want to enjoy the flavors of Malai Kofta with butter naan and a refreshing glass of Lassi.,"31-42:FOOD, 48-59:FOOD, 86-91:FOOD"
+I want to try your Gulab Jamun with a scoop of vanilla ice cream.,"19-30:FOOD, 47-64:FOOD"
+make me a Vada Pav extra spicy and serve it with green chilies?,"10-18:FOOD, 54-61:FOOD"
+I like to try your Kaju Katli with a touch of saffron.,"19-29:FOOD, 46-53:FOOD"
+I want Rasgulla with some rose syrup.,"7-15:FOOD, 26-36:FOOD"
+"I like Vada Pav, a popular Maharashtrian street food.",7-15:FOOD
+"Please bring me a plate of Misal Pav, a spicy and flavorful Maharashtrian dish.",27-36:FOOD
+"I craving for some Puran Poli, a delicious sweet flatbread from Maharashtra.",19-29:FOOD
+"Can I get a serving of Pav Bhaji, a mouthwatering Maharashtrian fast food?",23-32:FOOD
+"Please serve me a bowl of Bharli Vangi, a stuffed eggplant delicacy from Maharashtra.",26-38:FOOD
+"One plate of Sabudana Khichdi  a popular fasting dish in Maharashtra, please.",13-29:FOOD
+I want to enjoy the flavors of Kothimbir Vadi  a savory cilantro snack from Maharashtra.,31-45:FOOD
+Can you make my Puran Poli extra sweet and serve it with a dollop of ghee?,16-26:FOOD
+"I have a plate of Bombil Fry, a crispy and delicious Maharashtrian fish preparation.",18-28:FOOD
+"Please bring me a bowl of Solkadhi, a traditional Maharashtrian drink made with coconut milk and kokum.",26-34:FOOD
+I am in mood for some Kanda Bhaji a popular onion fritter from Maharashtra.,22-33:FOOD
+I want to enjoy the flavors of Shrikhand a popular sweet dish from Maharashtra.,31-40:FOOD
+Please serve me a plate of Kanda Bhaji a popular Maharashtrian snack.,27-38:FOOD
+"I want to enjoy the flavors of Batata Vada, a spicy potato fritter.",31-37:FOOD
+craving for some Dhokla a famous Gujarati snack.,17-23:FOOD
+Can I get a serving of Undhiyu a traditional Gujarati mixed vegetable dish?,23-30:FOOD
+I like to order some Vegetable Manchurian a popular Indo-Chinese dish.,31-41:FOOD
+"One plate of Kutchi Dabeli a famous Gujarati street food, please.",13-26:FOOD
+Please bring me a plate of Rava Idli with coconut chutney,"27-36:FOOD, 42-57:FOOD"
+One plate of Mini Idli with sambar please.,"18-22:FOOD, 28-34:FOOD"
+Can you make my Poha with extra peanuts?,16-20:FOOD
+I want to try your Vangi Poha with eggplant,"19-29:FOOD, 35-43:FOOD"
+One plate of Poha Dhokla please.,13-25:FOOD
